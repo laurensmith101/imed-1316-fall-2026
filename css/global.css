@@ -1,0 +1,18 @@
+/*
+60 of #397310
+30 of #8BBF73
+10 of #F2E205
+*/
+
+:root {
+
+    /* var(--primaryColor) */
+    --primaryColor: #397310;
+
+    /* var(--secondaryColor) */
+    --secondaryColor: #8BBF73;
+
+    /* var(--accentColor) */
+    --accentColor: #F2E205;
+
+}
