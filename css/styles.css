@@ -10,7 +10,8 @@ body {
     color: #fff;
 }
 .font awesome-icoms {
-  background-color: var(--primaryColor); 
+  background-color: var(--primaryColor);
+  padding: 25px; 
 }
 
 
