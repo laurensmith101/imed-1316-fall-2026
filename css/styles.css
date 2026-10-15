@@ -38,5 +38,6 @@ background-color: var(--primaryColor);
 .fa-footer  i {
 color: #fff;
 font-size: 25px;
+margin: 15px;
 }
 
