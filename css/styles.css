@@ -9,7 +9,7 @@ body {
     background-color: var(--primaryColor);
     color: #fff;
 }
-.font awesome-icoms {
+.font .font-awesome-icons {
   background-color: var(--primaryColor);
   padding: 25px; 
 }
@@ -29,8 +29,10 @@ font-size: 60px;
 color: #000;
 line-height: 1.2;
 padding: 15px; 
-border: 2px solid red; 
-margin: 15px; 
+/*border: 2px solid red; 
+margin-top : 15px; 
+margin-bottom: 15px; 
+text-align: center;
 } 
 
 
