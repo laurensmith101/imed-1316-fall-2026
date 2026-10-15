@@ -9,7 +9,7 @@ body {
     background-color: var(--primaryColor);
     color: #fff;
 }
-.font .font-awesome-icons {
+ .font-awesome-icons {
   background-color: var(--primaryColor);
   padding: 25px; 
 }
